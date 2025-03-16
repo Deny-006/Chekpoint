@@ -1,4 +1,4 @@
-# Chekpoint-1
+# Chekpoint
 
 Data Gathering & Business Understanding
 
